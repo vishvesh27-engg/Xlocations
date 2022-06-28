@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\my applications\\fireauth1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
+            "outputFile": "D:\\fireauth1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vishv_ladru5n\\.gradle\\caches\\transforms-3\\005627934cb5de51d804cd3c597f8200\\transformed\\core-1.8.0\\res\\values-as\\values-as.xml",

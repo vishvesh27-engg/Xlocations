@@ -13,17 +13,17 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\my applications\fireauth1\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->D:\my applications\fireauth1\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->D:\fireauth1\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->D:\fireauth1\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->D:\my applications\fireauth1\android\app\src\main\AndroidManifest.xml:4:5-79
-16-->D:\my applications\fireauth1\android\app\src\main\AndroidManifest.xml:4:22-76
+16-->D:\fireauth1\android\app\src\main\AndroidManifest.xml:4:5-79
+16-->D:\fireauth1\android\app\src\main\AndroidManifest.xml:4:22-76
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->D:\my applications\fireauth1\android\app\src\main\AndroidManifest.xml:5:5-81
-17-->D:\my applications\fireauth1\android\app\src\main\AndroidManifest.xml:5:22-78
+17-->D:\fireauth1\android\app\src\main\AndroidManifest.xml:5:5-81
+17-->D:\fireauth1\android\app\src\main\AndroidManifest.xml:5:22-78
 18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-18-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
-18-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+18-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+18-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 19-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\52d3b932588a4fef128998c797d2d1d9\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:24:5-79
 19-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\52d3b932588a4fef128998c797d2d1d9\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:24:22-76
@@ -89,31 +89,31 @@
 72            android:value="2" />
 73
 74        <service
-74-->[:firebase_auth] D:\my applications\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+74-->[:firebase_auth] D:\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 75            android:name="com.google.firebase.components.ComponentDiscoveryService"
-75-->[:firebase_auth] D:\my applications\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+75-->[:firebase_auth] D:\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 76            android:directBootAware="true"
 76-->[com.google.firebase:firebase-common:20.1.1] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\60cb43b41827ac5833e6ffb9297cb895\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
 77            android:exported="false" >
 77-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\52d3b932588a4fef128998c797d2d1d9\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:66:13-37
 78            <meta-data
-78-->[:firebase_auth] D:\my applications\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+78-->[:firebase_auth] D:\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 79                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-79-->[:firebase_auth] D:\my applications\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+79-->[:firebase_auth] D:\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 80                android:value="com.google.firebase.components.ComponentRegistrar" />
-80-->[:firebase_auth] D:\my applications\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+80-->[:firebase_auth] D:\fireauth1\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 81            <meta-data
-81-->[:cloud_firestore] D:\my applications\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+81-->[:cloud_firestore] D:\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-82-->[:cloud_firestore] D:\my applications\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+82-->[:cloud_firestore] D:\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:cloud_firestore] D:\my applications\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+83-->[:cloud_firestore] D:\fireauth1\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 84            <meta-data
-84-->[:firebase_core] D:\my applications\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+84-->[:firebase_core] D:\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 85                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-85-->[:firebase_core] D:\my applications\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+85-->[:firebase_core] D:\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[:firebase_core] D:\my applications\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+86-->[:firebase_core] D:\fireauth1\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 87            <meta-data
 87-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\52d3b932588a4fef128998c797d2d1d9\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:67:13-69:85
 88                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -128,44 +128,44 @@
 92-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\2e9869935de96f599ae1194969da5d44\transformed\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
 93        </service>
 94        <service
-94-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
+94-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
 95            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-95-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
+95-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
 96            android:enabled="true"
-96-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
+96-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
 97            android:exported="false"
-97-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+97-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
 98            android:foregroundServiceType="location" />
-98-->[:geolocator_android] D:\my applications\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
+98-->[:geolocator_android] D:\fireauth1\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
 99
 100        <provider
-100-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+100-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 101            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-101-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+101-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 102            android:authorities="com.example.fireauth.flutter.image_provider"
-102-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+102-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 103            android:exported="false"
-103-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+103-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 104            android:grantUriPermissions="true" >
-104-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+104-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 105            <meta-data
-105-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+105-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 106                android:name="android.support.FILE_PROVIDER_PATHS"
-106-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+106-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 107                android:resource="@xml/flutter_image_picker_file_paths" />
-107-->[:image_picker_android] D:\my applications\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+107-->[:image_picker_android] D:\fireauth1\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 108        </provider>
 109
 110        <service
-110-->[:location] D:\my applications\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
+110-->[:location] D:\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-17:56
 111            android:name="com.lyokone.location.FlutterLocationService"
-111-->[:location] D:\my applications\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
+111-->[:location] D:\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-71
 112            android:enabled="true"
-112-->[:location] D:\my applications\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
+112-->[:location] D:\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-35
 113            android:exported="false"
-113-->[:location] D:\my applications\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+113-->[:location] D:\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 114            android:foregroundServiceType="location" />
-114-->[:location] D:\my applications\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
+114-->[:location] D:\fireauth1\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-53
 115
 116        <uses-library
 116-->[androidx.window:window:1.0.0-beta04] C:\Users\vishv_ladru5n\.gradle\caches\transforms-3\e1f53c96aa78f7b42431169b7cd59214\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40

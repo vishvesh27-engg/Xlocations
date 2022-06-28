@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\my applications\\fireauth1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\fireauth1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vishv_ladru5n\\.gradle\\caches\\transforms-3\\e2d879f700b70f091f65ee0e47cdfd13\\transformed\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
@@ -39,23 +39,6 @@
                         "endLines": "454",
                         "endColumns": "20",
                         "endOffsets": "23347"
-                    }
-                },
-                {
-                    "source": "D:\\my applications\\fireauth1\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,712",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "194,276,380,489,609,707,782"
-                    },
-                    "to": {
-                        "startLines": "127,128,129,130,131,132,133",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "9009,9153,9235,9339,9448,9568,9666",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "9148,9230,9334,9443,9563,9661,9736"
                     }
                 },
                 {
@@ -150,24 +133,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vishv_ladru5n\\.gradle\\caches\\transforms-3\\f0589360d9c02b2f33aa86e62a9e0782\\transformed\\jetified-play-services-basement-18.0.0\\res\\values\\values.xml",
+                    "source": "D:\\fireauth1\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "243,406",
-                        "endColumns": "63,166",
-                        "endOffsets": "306,572"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,712",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "194,276,380,489,609,707,782"
                     },
                     "to": {
-                        "startLines": "107,117",
-                        "startColumns": "4,4",
-                        "startOffsets": "6538,7716",
-                        "endColumns": "67,166",
-                        "endOffsets": "6601,7878"
+                        "startLines": "127,128,129,130,131,132,133",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "9009,9153,9235,9339,9448,9568,9666",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "9148,9230,9334,9443,9563,9661,9736"
                     }
                 },
                 {
-                    "source": "D:\\my applications\\fireauth1\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\fireauth1\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -183,6 +166,23 @@
                         "endLines": "139,142",
                         "endColumns": "12,12",
                         "endOffsets": "10115,10284"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vishv_ladru5n\\.gradle\\caches\\transforms-3\\f0589360d9c02b2f33aa86e62a9e0782\\transformed\\jetified-play-services-basement-18.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "243,406",
+                        "endColumns": "63,166",
+                        "endOffsets": "306,572"
+                    },
+                    "to": {
+                        "startLines": "107,117",
+                        "startColumns": "4,4",
+                        "startOffsets": "6538,7716",
+                        "endColumns": "67,166",
+                        "endOffsets": "6601,7878"
                     }
                 }
             ]

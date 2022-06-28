@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:fireauth/HomePage.dart';
+import 'package:fireauth/bottomnavigationbar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
@@ -29,8 +30,8 @@ class _EditProfilePageState extends State<EditProfilePage> {
       "username": username.text,
       "email": email.text,
     });
-    Navigator.push(
-        context, MaterialPageRoute(builder: (context) => HomePage()));
+    Navigator.push(context,
+        MaterialPageRoute(builder: (context) => Bottomnavigationbar()));
     // Navigator.pop(context);
   }
 
